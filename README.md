@@ -74,4 +74,3 @@ composition of resources.
 - Produce findings that positively impact public health and policy.
 - Prioritize integrity, transparency, and ethical conduct in research.
 
-## [Tableau storyboard](https://public.tableau.com/views/HealthDevelopmentIndicatorsGlobalInsights/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
